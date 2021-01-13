@@ -1,4 +1,4 @@
-package com.re.srinivasa.homesite.ui;
+package com.re.srinivasa.homesite.ui.view.list;
 
 import com.re.srinivasa.homesite.backend.entity.Company;
 import com.re.srinivasa.homesite.backend.entity.Contact;
